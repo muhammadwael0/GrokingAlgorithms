@@ -1,4 +1,4 @@
-# Chapter 2 Exercise
+# Chapter 3 Exercise
 
 ## Solve
 > [1] Suppose I show you a call stack like this.

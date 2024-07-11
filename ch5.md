@@ -1,4 +1,4 @@
-# Chapter 2 Exercise
+# Chapter 5 Exercise
 
 ## Which of these hash functions are consistent as hash function?
 > [1] f(x) = 1 <-- Returns "1" for all input
