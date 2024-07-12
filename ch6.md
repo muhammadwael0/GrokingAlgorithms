@@ -30,3 +30,11 @@ c -> Invalid
 ```
 list could be ["Wake up", "Exercise", "Brush teeth", "Shower", "Get dressed", "Eat Breakfast", "Pack Lunch"]
 ```
+
+> [5] Which of the following graphs are also trees?
+![Problem 6.5](img/6-5.png)
+```
+A -> Tree
+B -> Not Tree
+C -> Tree
+```
